@@ -13,6 +13,7 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226221/index.m3u8
@@ -69,11 +70,11 @@ CCTV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
-CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8?
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225733/index.m3u8
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -103,7 +104,6 @@ CCTV9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 CCTV9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV9,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
 CCTV9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
-CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8?
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
@@ -115,7 +115,6 @@ CCTV10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226473/index.m3u8
 CCTV10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8
 CCTV10,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
-CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8?
@@ -124,19 +123,20 @@ CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
+CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226565/index.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
 CCTV11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 CCTV11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
-CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
 CCTV11,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227171/index.m3u8
 CCTV11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
 CCTV12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226568/index.m3u8
 CCTV12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
@@ -144,7 +144,6 @@ CCTV12,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV12,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
 CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
-CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8?
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
@@ -172,7 +171,6 @@ CCTV14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV14,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
-CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
@@ -293,7 +291,6 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 江苏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8
-江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225613/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
