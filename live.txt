@@ -141,7 +141,6 @@ CCTV15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
-CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?
 CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
