@@ -1,4 +1,4 @@
-2026-01-21 06:50:20,497 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
-2026-01-21 06:50:20,498 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
-2026-01-21 06:50:20,702 - INFO - url: https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 获取成功，判断为txt格式
-2026-01-21 06:50:20,724 - INFO - url: https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 广东频道, 卫视频道, 港·澳·台, 少儿频道, 影视频道
+2026-01-22 06:56:59,813 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
+2026-01-22 06:56:59,814 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
+2026-01-22 06:56:59,876 - INFO - url: https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 获取成功，判断为txt格式
+2026-01-22 06:56:59,898 - INFO - url: https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 广东频道, 卫视频道, 港·澳·台, 少儿频道, 影视频道
